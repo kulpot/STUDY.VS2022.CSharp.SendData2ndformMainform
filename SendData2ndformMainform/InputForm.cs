@@ -29,6 +29,7 @@ namespace SendData2ndformMainform
         }
 
         /*
+         * 
         public string TextBoxText
         {
             get { return textBox1.Text; }
